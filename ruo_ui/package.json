@@ -1,0 +1,29 @@
+{
+  "name": "@upyun/ruo-ui",
+  "version": "1.2.1",
+  "main": "index.js",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build"
+  },
+  "devDependencies": {
+    "antd": "^3.0.3",
+    "babel-plugin-import": "^1.6.3",
+    "classnames": "^2.2.5",
+    "highlight": "^0.2.4",
+    "ramda": "^0.25.0",
+    "react": "^16.2.0",
+    "react-app-rewired": "^1.4.0",
+    "react-dom": "^16.2.0",
+    "react-markdown": "^3.1.3",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-syntax-highlighter": "^6.1.1"
+  },
+  "dependencies": {
+    "serve-static": "^1.13.1"
+  }
+}
